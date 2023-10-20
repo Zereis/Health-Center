@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5fBT99udIuwJ+fyQygVUEM4Y21BQeFRRdBu9r8mm2ASjhWDCpgUqOGL9VvG98D5E14cVLrf+34/moFNQoY8MSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\source\\repos\\Health Center\\Health Center\\Health Center.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\npgsql\\6.0.5\\npgsql.6.0.5.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

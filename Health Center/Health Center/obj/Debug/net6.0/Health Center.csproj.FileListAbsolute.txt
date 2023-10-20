@@ -1,0 +1,17 @@
+C:\Users\David\source\repos\Health Center\Health Center\bin\Debug\net6.0\Health Center.exe
+C:\Users\David\source\repos\Health Center\Health Center\bin\Debug\net6.0\Health Center.deps.json
+C:\Users\David\source\repos\Health Center\Health Center\bin\Debug\net6.0\Health Center.runtimeconfig.json
+C:\Users\David\source\repos\Health Center\Health Center\bin\Debug\net6.0\Health Center.dll
+C:\Users\David\source\repos\Health Center\Health Center\bin\Debug\net6.0\Health Center.pdb
+C:\Users\David\source\repos\Health Center\Health Center\obj\Debug\net6.0\Health Center.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Health Center\Health Center\obj\Debug\net6.0\Health Center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\Health Center\Health Center\obj\Debug\net6.0\Health Center.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Health Center\Health Center\obj\Debug\net6.0\Health Center.AssemblyInfo.cs
+C:\Users\David\source\repos\Health Center\Health Center\obj\Debug\net6.0\Health Center.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Health Center\Health Center\obj\Debug\net6.0\Health Center.dll
+C:\Users\David\source\repos\Health Center\Health Center\obj\Debug\net6.0\refint\Health Center.dll
+C:\Users\David\source\repos\Health Center\Health Center\obj\Debug\net6.0\Health Center.pdb
+C:\Users\David\source\repos\Health Center\Health Center\obj\Debug\net6.0\Health Center.genruntimeconfig.cache
+C:\Users\David\source\repos\Health Center\Health Center\obj\Debug\net6.0\ref\Health Center.dll
+C:\Users\David\source\repos\Health Center\Health Center\bin\Debug\net6.0\Npgsql.dll
+C:\Users\David\source\repos\Health Center\Health Center\obj\Debug\net6.0\Health Center.csproj.CopyComplete
